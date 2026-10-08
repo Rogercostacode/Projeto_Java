@@ -1,0 +1,3 @@
+        janela.setVisible(true);
+        janela.setSize(515,550);
+        janela.setResizable(false);
